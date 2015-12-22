@@ -1,0 +1,1 @@
+What it does is it updates the rss feed every period of time(1 hr). Because in news reader service there is part that times the update frequency

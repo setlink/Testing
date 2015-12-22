@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/admin/AndroidStudioProjects/ch13_ex3_TaskList_sol/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Task List</string>
+    <!-- From: file:/C:/Users/admin/AndroidStudioProjects/ch13_ex3_TaskList_sol/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light">
+    </style>
+</resources>
